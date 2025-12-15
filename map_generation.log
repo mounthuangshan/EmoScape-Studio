@@ -1,0 +1,51 @@
+2025-03-26 22:09:30,906 - MapGenerator - INFO - 启动数据加载...
+
+2025-03-26 22:09:30,907 - MapGenerator - INFO - 开始加载对象数据库...
+2025-03-26 22:09:30,907 - MapGenerator - INFO - 正在打开 objects_db.json
+2025-03-26 22:09:30,908 - MapGenerator - INFO - 正在处理分类 [vegetation]，包含 4 个对象
+2025-03-26 22:09:30,908 - MapGenerator - INFO - 正在处理分类 [buildings]，包含 4 个对象
+2025-03-26 22:09:30,909 - MapGenerator - INFO - 正在处理分类 [npc]，包含 4 个对象
+2025-03-26 22:09:30,909 - MapGenerator - INFO - 数据库加载完成，总对象数：12
+2025-03-26 22:09:30,910 - MapGenerator - INFO - 正在打开 biomes_config.json
+2025-03-26 22:09:30,911 - MapGenerator - INFO - 生成高级地形、气候...
+
+2025-03-26 22:12:23,657 - MapGenerator - INFO - 启动数据加载...
+
+2025-03-26 22:12:23,657 - MapGenerator - INFO - 启动数据加载...
+
+2025-03-26 22:12:23,658 - MapGenerator - INFO - 开始加载对象数据库...
+2025-03-26 22:12:23,658 - MapGenerator - INFO - 开始加载对象数据库...
+2025-03-26 22:12:23,660 - MapGenerator - INFO - 正在打开 objects_db.json
+2025-03-26 22:12:23,661 - MapGenerator - INFO - 正在打开 objects_db.json
+2025-03-26 22:12:23,661 - MapGenerator - INFO - 正在处理分类 [vegetation]，包含 4 个对象
+2025-03-26 22:12:23,662 - MapGenerator - INFO - 正在处理分类 [vegetation]，包含 4 个对象
+2025-03-26 22:12:23,662 - MapGenerator - INFO - 正在处理分类 [buildings]，包含 4 个对象
+2025-03-26 22:12:23,663 - MapGenerator - INFO - 正在处理分类 [npc]，包含 4 个对象
+2025-03-26 22:12:23,663 - MapGenerator - INFO - 正在处理分类 [buildings]，包含 4 个对象
+2025-03-26 22:12:23,664 - MapGenerator - INFO - 数据库加载完成，总对象数：12
+2025-03-26 22:12:23,665 - MapGenerator - INFO - 正在打开 biomes_config.json
+2025-03-26 22:12:23,665 - MapGenerator - INFO - 正在处理分类 [npc]，包含 4 个对象
+2025-03-26 22:12:23,666 - MapGenerator - INFO - 生成高级地形、气候...
+
+2025-03-26 22:13:58,013 - MapGenerator - INFO - 启动数据加载...
+
+2025-03-26 22:13:58,013 - MapGenerator - INFO - 启动数据加载...
+
+2025-03-26 22:13:58,015 - MapGenerator - INFO - 开始加载对象数据库...
+2025-03-26 22:13:58,015 - MapGenerator - INFO - 开始加载对象数据库...
+2025-03-26 22:13:58,016 - MapGenerator - INFO - 正在打开 objects_db.json
+2025-03-26 22:13:58,016 - MapGenerator - INFO - 正在打开 objects_db.json
+2025-03-26 22:13:58,018 - MapGenerator - INFO - 正在处理分类 [vegetation]，包含 4 个对象
+2025-03-26 22:13:58,018 - MapGenerator - INFO - 正在处理分类 [vegetation]，包含 4 个对象
+2025-03-26 22:13:58,018 - MapGenerator - INFO - 正在处理分类 [buildings]，包含 4 个对象
+2025-03-26 22:13:58,019 - MapGenerator - INFO - 正在处理分类 [buildings]，包含 4 个对象
+2025-03-26 22:13:58,019 - MapGenerator - INFO - 正在处理分类 [npc]，包含 4 个对象
+2025-03-26 22:13:58,020 - MapGenerator - INFO - 正在处理分类 [npc]，包含 4 个对象
+2025-03-26 22:13:58,020 - MapGenerator - INFO - 数据库加载完成，总对象数：12
+2025-03-26 22:13:58,020 - MapGenerator - INFO - 数据库加载完成，总对象数：12
+2025-03-26 22:13:58,021 - MapGenerator - INFO - 正在打开 biomes_config.json
+2025-03-26 22:13:58,021 - MapGenerator - INFO - 正在打开 biomes_config.json
+2025-03-26 22:13:58,023 - MapGenerator - INFO - 生成高级地形、气候...
+
+2025-03-26 22:13:58,023 - MapGenerator - INFO - 生成高级地形、气候...
+

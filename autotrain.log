@@ -1,0 +1,15 @@
+INFO     | 2025-04-15 20:35:18 | autotrain.app.ui_routes:<module>:31 - Starting AutoTrain...
+INFO     | 2025-04-15 20:35:31 | autotrain.app.ui_routes:<module>:315 - AutoTrain started successfully
+INFO     | 2025-04-15 20:35:31 | autotrain.app.app:<module>:13 - Starting AutoTrain...
+INFO     | 2025-04-15 20:35:31 | autotrain.app.app:<module>:23 - AutoTrain version: 0.8.36
+INFO     | 2025-04-15 20:35:31 | autotrain.app.app:<module>:24 - AutoTrain started successfully
+INFO:     Started server process [53648]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8084 (Press CTRL+C to quit)
+forrtl: error (200): program aborting due to window-CLOSE event
+Image              PC                Routine            Line        Source             
+libifcoremd.dll    00007FFDEE6EDF54  Unknown               Unknown  Unknown
+KERNELBASE.dll     00007FFE9587C46D  Unknown               Unknown  Unknown
+KERNEL32.DLL       00007FFE9771E8D7  Unknown               Unknown  Unknown
+ntdll.dll          00007FFE986514FC  Unknown               Unknown  Unknown
