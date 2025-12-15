@@ -1,0 +1,68 @@
+{
+  "sea_level": 15.0,
+  "biomes": [
+    {
+      "name": "Ocean",
+      "height_condition": [ "<", "sea_level" ],
+      "temp_range": [ 0, 1 ],
+      "hum_range": [ 0, 1 ],
+      "color": [ 0, 0, 1 ],
+      "resources": [ "fish", "coral" ],
+      "events": []
+    },
+    {
+      "name": "TropicalRainforest",
+      "height_condition": [ ">=", "sea_level" ],
+      "temp_range": [ 0.66, 1 ],
+      "hum_range": [ 0.5, 1 ],
+      "color": [ 0.133, 0.545, 0.133 ],
+      "resources": [ "rare_flower", "herbs" ],
+      "events": [ "jungle_temple" ]
+    },
+    {
+      "name": "Grassland",
+      "height_condition": [ ">=", "sea_level" ],
+      "temp_range": [ 0.66, 1 ],
+      "hum_range": [ 0, 0.5 ],
+      "color": [ 0.486, 0.988, 0 ],
+      "resources": [ "wheat" ],
+      "events": [ "scarecrow_farm" ]
+    },
+    {
+      "name": "TemperateForest",
+      "height_condition": [ ">=", "sea_level" ],
+      "temp_range": [ 0.33, 0.66 ],
+      "hum_range": [ 0.5, 1 ],
+      "color": [ 0, 0.392, 0 ],
+      "resources": [ "wood", "mushroom" ],
+      "events": [ "forest_shrine" ]
+    },
+    {
+      "name": "Desert",
+      "height_condition": [ ">=", "sea_level" ],
+      "temp_range": [ 0.33, 0.66 ],
+      "hum_range": [ 0, 0.5 ],
+      "color": [ 0.929, 0.788, 0.686 ],
+      "resources": [ "cactus" ],
+      "events": [ "desert_ruins" ]
+    },
+    {
+      "name": "BorealForest",
+      "height_condition": [ ">=", "sea_level" ],
+      "temp_range": [ 0, 0.33 ],
+      "hum_range": [ 0.5, 1 ],
+      "color": [ 0.184, 0.310, 0.310 ],
+      "resources": [ "pine_wood", "wild_berry" ],
+      "events": [ "frozen_lake" ]
+    },
+    {
+      "name": "Snow",
+      "height_condition": [ ">=", "sea_level" ],
+      "temp_range": [ 0, 0.33 ],
+      "hum_range": [ 0, 0.5 ],
+      "color": [ 1, 1, 1 ],
+      "resources": [ "ice_shard" ],
+      "events": [ "ice_cave" ]
+    }
+  ]
+}

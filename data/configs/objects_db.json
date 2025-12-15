@@ -1,0 +1,5 @@
+{
+  "vegetation": [ "oak_tree", "pine_tree", "bush", "flower" ],
+  "buildings": [ "small_hut", "watch_tower", "stone_house", "wooden_cottage" ],
+  "npc": [ "villager", "merchant", "guard", "fisherman" ]
+}

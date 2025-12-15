@@ -1,0 +1,42 @@
+{
+  "plant_coverage": {
+    "valence": 0.3160122741481093,
+    "arousal": 0.0407472615098682
+  },
+  "building_density": {
+    "valence": 0.09972546881143317,
+    "arousal": 0.027307323842965463
+  },
+  "avg_height": {
+    "valence": 0.2076549607785034,
+    "arousal": 0.01402358611428221
+  },
+  "height_variance": {
+    "valence": 0.03616819334773537,
+    "arousal": 0.16028071283318057
+  },
+  "edge_density": {
+    "valence": 0.01830288034529968,
+    "arousal": 0.11891641705538324
+  },
+  "height_gradient": {
+    "valence": 0.019533415414222304,
+    "arousal": 0.01864083512446257
+  },
+  "water_proximity": {
+    "valence": 0.16744987342070294,
+    "arousal": 0.017712525797895583
+  },
+  "biome_diversity": {
+    "valence": 0.031528121112883216,
+    "arousal": 0.01786067796622066
+  },
+  "spatial_complexity": {
+    "valence": 0.025881224216353735,
+    "arousal": 0.34990734979303967
+  },
+  "symmetry_measure": {
+    "valence": 0.0777435884047569,
+    "arousal": 0.2346033099627018
+  }
+}

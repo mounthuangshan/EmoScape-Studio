@@ -1,0 +1,20 @@
+{
+  "achievement": 0.8,
+  "exploration": 0.7,
+  "social": 0.4,
+  "combat": 0.3,
+  "requests": [
+    {
+      "type": "add_resource",
+      "resource": "herbs",
+      "biome": "TropicalRainforest",
+      "count": 5
+    },
+    {
+      "type": "add_event",
+      "event": "bandit_camp",
+      "biome": "Grassland",
+      "count": 2
+    }
+  ]
+}
